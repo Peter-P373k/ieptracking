@@ -1,0 +1,6 @@
+$sql = "INSERT INTO `ieptracker`.`TeacherData` (`FirstName`, `LastName`, `EmailAddress`) VALUES (\'PeterTest\', \'IBRAHIM Test\', \'Peterxsharp@gmail.com test\');";
+
+
+INSERT INTO `ieptracker`.`TeacherData` (`FirstName`, `LastName`, `EmailAddress`) VALUES ('PeterTest', 'IBRAHIM Test', 'Peterxsharp@gmail.com test');
+
+
